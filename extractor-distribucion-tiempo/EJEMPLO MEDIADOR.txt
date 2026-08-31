@@ -1,0 +1,91 @@
+{
+  "url": "https://s70.master2000.net/academicocomun/ComunPHP/DistribucionTiempo/index.php",
+  "extraido": "31/8/2026, 18:09:39",
+  "meta": {
+    "fechasTrabajo": "Inicio: 20/01/2026 - Fin: 27/08/2026",
+    "responsable": "JULIAN RODRIGO CASTAÑO VILLADA",
+    "fechaActualizacion": "2026-07-14 10:52:07 (Campos Horizontales)",
+    "usuario": "CASTAÑO VILLADA JULIAN RODRIGO",
+    "documento": "1036955813",
+    "institucion": "COLEGIO DE LA PRESENTACION RIONEGRO - 2026",
+    "grupoMateria": "1002 Sede 00 Jornada Completa: 009 - TECNOLOGIA E INFORMÁTICA - CULT. EMPRESARIAL",
+    "periodo": "1"
+  },
+  "formularios": [
+    {
+      "titulo": "Campos Horizontales Superiores",
+      "secciones": [
+        {
+          "titulo": "Tiempos",
+          "campos": [
+            {
+              "nombre": "Fecha de periodo",
+              "valor": "Enero 20 de 2026 - Marzo 27 de 2026",
+              "obligatorio": true
+            },
+            {
+              "nombre": "Previsto",
+              "valor": "20 horas",
+              "obligatorio": true
+            },
+            {
+              "nombre": "Ejecutado",
+              "valor": "20 horas",
+              "obligatorio": false
+            }
+          ]
+        },
+        {
+          "titulo": "Saberes / Pautas",
+          "campos": [
+            {
+              "nombre": "Ámbitos conceptuales y/o Núcleos Temáticos",
+              "valor": "Aplica el pensamiento lógico para crear soluciones paso a paso. Aplica los conceptos básicos de Excel para organizar y analizar datos.",
+              "obligatorio": true
+            },
+            {
+              "nombre": "Pautas de entrada",
+              "valor": "Se inicia con la pauta de entrada, donde el estudiante responde un taller diagnóstico sobre el manejo de herramientas ofimáticas, especialmente en la elaboración de documentos formales, uso adecuado de normas básicas de presentación y aplicación de funciones intermedias en Excel. La actividad permite identificar el nivel en redacción, organización de información, uso de fórmulas, tablas y gráficos. Finalmente, se refuerzan las normas de trabajo en la sala de informática y el uso responsable de los recursos tecnológicos.",
+              "obligatorio": true
+            }
+          ]
+        },
+        {
+          "titulo": "Evidencias ( indicadores de desempeño)",
+          "campos": [
+            {
+              "nombre": "Evidencias ( indicadores de desempeño)",
+              "valor": "Diseña algoritmos sencillos en lenguaje natural o pseudocódigo para resolver problemas cotidianos. Realiza ejercicios utilizando cálculos combinados y referencia absoluta.",
+              "obligatorio": true
+            }
+          ]
+        },
+        {
+          "titulo": "Educación Inclusiva",
+          "campos": [
+            {
+              "nombre": "Educación Inclusiva",
+              "valor": "NOMBRE DEL ESTUDIANTE: SARA VALERIA ACHURY ALFONSO. GRADO: 10°B DIAGNÓSTICO: Trastorno por déficit de atención con/sin hiperactividad (TDAH) con presentación combinada-Grave, Trastorno específico del aprendizaje (Con dificultades en la lectura y en la expresión escrita). BARRERAS PARA EL APRENDIZAJE, LA PARTICIPACIÓN, EL DESARROLLO Y LA PROMOCIÓN: COGNITIVAS: La estudiante se distrae con facilidad ante estímulos externos, lo que dificulta que mantenga su atención de manera sostenida en una tarea y el rendimiento en actividades que requieren concentración prolongada, interrumpiendo sus rutinas de trabajo y necesitando tiempo adicional, en algunos momentos, para completar sus actividades o reducción en la extensión de las mismas. En ocasiones, no logra resolver operaciones matemáticas básicas acordes con su nivel escolar y presenta dificultades en la lectura, algunas veces requiere acompañamiento y estrategias de motivación para iniciar y culminar sus actividades. EMOCIONALES/MOTIVACIONALES: Sarah Valeria es una estudiante puntual y con una actitud respetuosa con sus compañeros y docentes, participa en actividades grupales con disposición y mantiene buenas relaciones interpersonales. Su interés por el colegio y su capacidad para integrarse socialmente le permiten desenvolverse de manera adecuada dentro del entorno escolar. FÍSICAS: N/A LINGUÍSTICAS/COMUNICATIVAS: N/A SOCIOCULTURALES: N/A · INDICADORES DE DESEMPEÑO MULTINIVEL: N/A · MATERIAL DIDÁCTICO/APOYOS PRESENTADOS AL ALUMNO: Retroalimentación frecuente, re direccionar su atención durante las actividades propuestas. Brindarle las instrucciones paso a paso de forma corta y sencilla. Trabajo grupal. · MEDIO DE EXPRESIÓN Y ACCIÓN POR PARTE DEL ALUMNO: Darle más tiempo para la entrega de talleres, apoyo constante en las actividades evaluativas. Darle un peso específico a las preguntas. · CANTIDAD DE ACTIVIDADES: Disminuirle la cantidad de preguntas a evaluar. Darle la posibilidad de terminar los trabajos en casa. · SENSIBILIZACIÓN EN TORNO AL RESPETO DE LA DIVERSIDAD: N/A NOMBRE DEL ESTUDIANTE: SIMÓN HURTADO GIL. GRADO: 10°B DIAGNÓSTICO: Trastorno especifico del aprendizaje, perfil sugiere sintomatología de ANSIEDAD. Trastorno por déficit de atención (TDAH) de tipo INATENTO, Dispraxia construccional y Dislalia. BARRERAS PARA EL APRENDIZAJE, LA PARTICIPACIÓN, EL DESARROLLO Y LA PROMOCIÓN: COGNITIVAS: El estudiante tiene un buen desempeño académico, da cuenta de habilidades para comprender y recordar las temáticas dispuestas en las asignaturas. El alumno da cuenta de un ritmo de aprendizaje muy específico, con dificultades significativas en el proceso de escritura, presentando una escritura poco clara y ordenada, es necesario que al alumno se le dé más tiempo para la terminar las actividades, se le reduzca la extensión de las mismas y se le brinde otras opciones de formato para expresar su conocimiento o presentarle la información, como, por ejemplo, enviarle las diapositivas, o permitirle usar un computador para tomar notas. EMOCIONALES/MOTIVACIONALES: El estudiante tiene un buen desempeño académico, es receptivo y respetuoso a las normas institucionales. Manifiesta dificultades en la creación de relaciones interpersonales con sus pares porque considera que no tiene suficientes amigos al interior del grupo, es importante fortalecer sus auto esquemas ya que tiende a ser muy autoexigente buscando frecuentemente la aprobación externa. Aunque participa en actividades grupales y realiza los trabajos en estos espacios, requiere apoyo para integrarse activamente. FÍSICAS: N/A LINGUÍSTICAS/COMUNICATIVAS: N/A SOCIOCULTURALES: N/A MATERIAL DIDÁCTICO/APOYOS PRESENTADOS AL ALUMNO: Retroalimentación frecuente, redireccionar su atención durante las actividades propuestas. Brindarle las instrucciones paso a paso de forma corta y sencilla. Trabajo grupal. · MEDIO DE EXPRESIÓN Y ACCIÓN POR PARTE DEL ALUMNO: Darle más tiempo para la entrega de talleres, apoyo constante en las actividades evaluativas. Darle un peso específico a las preguntas. · CANTIDAD DE ACTIVIDADES: Disminuirle la cantidad de preguntas a evaluar. Darle la posibilidad de terminar los trabajos en casa. · SENSIBILIZACIÓN EN TORNO AL RESPETO DE LA DIVERSIDAD: N/A",
+              "obligatorio": true
+            }
+          ]
+        },
+        {
+          "titulo": "Recursos / Bibliográfia - Cibergrafia",
+          "campos": [
+            {
+              "nombre": "Bibliografia / Cibergrafia",
+              "valor": "Ministerio de Educación Nacional de Colombia. Estándares básicos de competencias en Tecnología e Informática. Guías de Microsoft Office (Word y Excel) Portal Colombia Aprende – recursos digitales educativos. Google Workspace – centro de ayuda (Documentos y Hojas de cálculo).",
+              "obligatorio": true
+            },
+            {
+              "nombre": "Recursos",
+              "valor": "Computadores con acceso a Internet. Video beam. Herramientas ofimáticas. Marcadores Pizarra Servidor",
+              "obligatorio": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

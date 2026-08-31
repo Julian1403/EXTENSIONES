@@ -1,0 +1,54 @@
+{
+  "url": "https://s70.master2000.net/academicocomun/ComunPHP/DiarioCampo/index.php",
+  "extraido": "31/8/2026, 18:15:23",
+  "meta": {
+    "fechasTrabajo": "Inicio: 06/04/2026 - Fin: 27/11/2026",
+    "responsable": "JULIAN RODRIGO CASTAÑO VILLADA",
+    "fechaActualizacion": "2026-07-10 13:33:22 (Campos Horizontales)",
+    "usuario": "CASTAÑO VILLADA JULIAN RODRIGO",
+    "documento": "1036955813",
+    "institucion": "COLEGIO DE LA PRESENTACION RIONEGRO - 2026",
+    "grupoMateria": "0602 Sede 00 Jornada Completa: 009 - TECNOLOGIA E INFORMÁTICA - CULT. EMPRESARIAL",
+    "periodo": "3",
+    "formato": "REGISTRO DE CLASES"
+  },
+  "clases": [
+    {
+      "fecha": "Agosto 3-7 de 2026",
+      "clase": "Clase #9 y #10",
+      "ambitos": "IA en la vida diaria: Asistentes virtuales (Siri, Google Assistant), recomendaciones automáticas.",
+      "estrategias": "Durante la clase del miércoles se realizó una introducción al tema Tecnología y sociedad, analizando algunos beneficios que han generado las tecnologías en la vida cotidiana y su influencia en la forma de comunicarnos, aprender y realizar diferentes actividades. En la segunda hora se propuso una reflexión sobre el impacto ambiental de la tecnología, especialmente frente al consumo de energía, el uso de dispositivos y la generación de residuos electrónicos. Se relacionó el tema con el eje transversal de Pastoral, promoviendo actitudes de responsabilidad y cuidado del entorno. Los estudiantes participaron en un taller de reflexión y plantearon algunas acciones sencillas para hacer un uso más consciente de los recursos tecnológicos. Estrategia didáctica: Conversatorio, análisis de situaciones cotidianas y taller reflexivo. Evaluación: Taller en clase y participación.",
+      "novedades": "La clase correspondiente al viernes no se desarrolló debido al día festivo del 7 de agosto."
+    },
+    {
+      "fecha": "Julio 27-31 de 2026",
+      "clase": "Clase #7 y #8",
+      "ambitos": "IA en la vida diaria: Asistentes virtuales (Siri, Google Assistant), recomendaciones automáticas.",
+      "estrategias": "Durante la clase del miércoles se continuó con la exploración de Tinkercad, realizando ejercicios sencillos de ubicación y conexión de componentes dentro del entorno de simulación. En la clase del viernes se avanzó en la construcción de pequeñas propuestas tecnológicas, resaltando la importancia de seguir instrucciones, organizar los componentes y comprobar el funcionamiento de las simulaciones. De manera transversal se abordó el uso responsable de la tecnología y la importancia de respetar los recursos e información utilizados en los proyectos, relacionándolo con la propiedad del cliente. También se realizó la actividad institucional de las encuestas de ambiente escolar y marketing digital sin afectar el desarrollo de la clase. Estrategia didáctica: Demostración, práctica guiada y aprendizaje por exploración. Evaluación: Trabajo práctico en Tinkercad.",
+      "novedades": ""
+    },
+    {
+      "fecha": "Julio 20-24 de 2026",
+      "clase": "Clase #5 y #6",
+      "ambitos": "IA en la vida diaria: Asistentes virtuales (Siri, Google Assistant), recomendaciones automáticas.",
+      "estrategias": "Durante la clase del miércoles se profundizó en el funcionamiento básico de los asistentes virtuales y en la manera como las tecnologías pueden responder a instrucciones dadas por los usuarios. En la clase del viernes se inició una aproximación al diseño de proyectos tecnológicos y robóticos con Tinkercad, reconociendo el entorno de trabajo y algunos de los componentes que pueden utilizarse para realizar simulaciones. Los estudiantes mostraron interés al conocer una herramienta que permite experimentar con proyectos tecnológicos sin necesidad de contar inicialmente con los componentes físicos. Estrategia didáctica: Demostración guiada, exploración de plataforma y aprendizaje práctico. Evaluación: Actividad de reconocimiento de la plataforma y sus herramientas.",
+      "novedades": ""
+    },
+    {
+      "fecha": "Julio 13-17 de 2026",
+      "clase": "Clase #3 y #4",
+      "ambitos": "IA en la vida diaria: Asistentes virtuales (Siri, Google Assistant), recomendaciones automáticas.",
+      "estrategias": "Durante la clase del miércoles se continuó trabajando la presencia de la inteligencia artificial en situaciones cotidianas, analizando cómo los asistentes virtuales pueden interpretar solicitudes y facilitar algunas tareas. En la clase del viernes se realizaron ejemplos y actividades sencillas para identificar recomendaciones automáticas presentes en plataformas digitales, reflexionando sobre cómo estas herramientas conocen nuestros intereses a partir de la información que utilizamos. Se aprovechó el espacio para trabajar el valor de la esperanza, resaltando la importancia de aprender y utilizar las nuevas tecnologías como herramientas para construir soluciones y mejorar diferentes situaciones. Estrategia didáctica: Análisis de ejemplos, conversación dirigida y actividad práctica. Evaluación: Taller en clase.",
+      "novedades": "La clase correspondiente al viernes no se desarrolló debido a la jornada institucional de entrega de notas."
+    },
+    {
+      "fecha": "Julio 6-10 de 2026",
+      "clase": "Clase #1 y #2",
+      "ambitos": "IA en la vida diaria: Asistentes virtuales (Siri, Google Assistant), recomendaciones automáticas.",
+      "estrategias": "Durante la clase del miércoles se realizó la pauta de entrada, explorando los conocimientos previos de los estudiantes sobre inteligencia artificial, tecnología y su presencia en actividades cotidianas. En la clase del viernes se introdujo el tema de la IA en la vida diaria, identificando ejemplos cercanos como asistentes virtuales, recomendaciones automáticas y algunas aplicaciones que los estudiantes utilizan habitualmente. Estrategia didáctica: Pauta de entrada, conversatorio y exploración de conocimientos previos. Evaluación: Taller de conocimientos previos y participación en clase.",
+      "novedades": ""
+    }
+  ],
+  "observacionesGenerales": "",
+  "adecuacionesCurriculares": ""
+}

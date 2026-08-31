@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Extractor Planilla Master 2000",
+  "version": "1.0",
+  "description": "Extrae notas, diagnósticos y campos vacíos de la Planilla de Resultados.",
+  "permissions": ["activeTab", "storage", "downloads"],
+  "host_permissions": ["https://*.master2000.net/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Extractor Planilla"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.master2000.net/academicocomun/*/Resultados.php*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

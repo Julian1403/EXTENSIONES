@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Extractor Diario de Campo Master 2000",
+  "version": "1.0",
+  "description": "Extrae el Diario de Campo (registro de clases) en formato JSON.",
+  "permissions": ["activeTab", "storage", "downloads"],
+  "host_permissions": ["https://*.master2000.net/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Extractor Diario de Campo"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.master2000.net/academicocomun/ComunPHP/DiarioCampo/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

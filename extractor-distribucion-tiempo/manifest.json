@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Extractor Distribución de Tiempo Master 2000",
+  "version": "1.0",
+  "description": "Extrae la información de la página Distribución de Tiempo en formato JSON.",
+  "permissions": ["activeTab", "storage", "downloads"],
+  "host_permissions": ["https://*.master2000.net/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Extractor Distribución de Tiempo"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.master2000.net/academicocomun/ComunPHP/DistribucionTiempo/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
